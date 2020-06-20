@@ -91,9 +91,9 @@
                 <DefaultStyle/>
                 <ITEXT FONT="Open Sans Bold" FONTSIZE="18" FCOLOR="Blue-Warn-5" CH="Joan Andrés Buriticá Salazar"/>
                 <para LINESP="15"/>
-                <ITEXT FONT="EB Garamond Regular" FCOLOR="Blue-Warn-5" CH="Estudiante de Ingeniería en Sistemas"/>
+                <ITEXT FONT="Open Sans Regular" FONTSIZE="11" FCOLOR="Blue-Warn-5" CH="Estudiante de Ingeniería en Sistemas"/>
                 <para/>
-                <ITEXT FONT="EB Garamond Regular" FCOLOR="Blue-Warn-5" CH="Granada, Antioquía, Colombia"/>
+                <ITEXT FONT="Open Sans Regular" FONTSIZE="11" FCOLOR="Blue-Warn-5" CH="Granada, Antioquía, Colombia"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
