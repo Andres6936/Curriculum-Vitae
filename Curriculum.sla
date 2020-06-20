@@ -104,26 +104,9 @@
                 <trail ALIGN="1" LINESPMode="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="128.347086614173" YPOS="275.11937007874" OwnPage="0" ItemID="484511462" PTYPE="4" WIDTH="510.236220472441" HEIGHT="170.07874015748" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 170.079 L0 170.079 L0 0 Z" copath="M0 0 L510.236 0 L510.236 170.079 L0 170.079 L0 0 Z" ImageRes="0" gXpos="128.347086614173" gYpos="275.11937007874" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="128.347086614173" YPOS="331.812283464567" OwnPage="0" ItemID="484511462" PTYPE="4" WIDTH="510.236220472441" HEIGHT="85.0393700787402" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 85.0394 L0 85.0394 L0 0 Z" copath="M0 0 L510.236 0 L510.236 85.0394 L0 85.0394 L0 0 Z" ImageRes="0" gXpos="128.347086614173" gYpos="331.812283464567" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT FONT="Open Sans Regular" CH="- Tesis: Análisis de beneficios y riesgos de usar la cobertura de código"/>
-                <para ALIGN="0" DIRECTION="0" LINESPMode="1" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0"/>
-                <tab FONT="Open Sans Regular"/>
-                <ITEXT FONT="Open Sans Regular" CH="- Promedio Universitario actual: 4.2"/>
-                <para LINESPMode="1"/>
-                <para LINESPMode="1" OpticalMargins="0"/>
-                <ITEXT FONT="Open Sans Regular" CH=" "/>
-                <para LINESPMode="1" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="1" BulletStr="•" Numeration="0"/>
-                <tab FONT="Open Sans Regular"/>
-                <ITEXT FONT="Open Sans Regular" CH="- Promedio Técnico en Sistemas: 4.3"/>
-                <para LINESPMode="1"/>
-                <ITEXT FONT="Open Sans Bold" FONTSIZE="16.5" CH="I.T.I Manuel Elkin Patarroyo"/>
-                <para LINESPMode="1"/>
-                <ITEXT FONT="Open Sans Regular" CH=" Bachillerato con Énfasis en Mantenimiento Correctivo y Preventivo de Ordenadores"/>
-                <para LINESPMode="1" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
-                <tab FONT="Open Sans Regular"/>
-                <ITEXT FONT="Open Sans Regular" CH="- Promedio Escolar Secundario: 3.7"/>
                 <para LINESPMode="1"/>
             </StoryText>
         </PAGEOBJECT>
@@ -223,6 +206,21 @@
                 <DefaultStyle ALIGN="1" FONT="CMU Concrete Bold" FCOLOR="Blue-Warn-5"/>
                 <ITEXT FONT="Open Sans Bold" FONTSIZE="7.5" FCOLOR="Blue-Warn-5" CH="Diseño original, realizado por Joan Andrés Buriticá Salazar, Santiago de Cali, Colombia"/>
                 <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.347086614173" YPOS="269.450078740158" OwnPage="0" ItemID="530554454" PTYPE="4" WIDTH="255.11811023622" HEIGHT="17.007874015748" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L255.118 0 L255.118 17.0079 L0 17.0079 L0 0 Z" copath="M0 0 L255.118 0 L255.118 17.0079 L0 17.0079 L0 0 Z" ImageRes="0" gXpos="128.347086614173" gYpos="269.450078740158" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Open Sans Bold" FONTSIZE="16.5" CH="Manuel Elkin Patarroyo"/>
+                <trail LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.347086614173" YPOS="290.709921259843" OwnPage="0" ItemID="522986822" PTYPE="4" WIDTH="396.850393700787" HEIGHT="12.755905511811" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L396.85 0 L396.85 12.7559 L0 12.7559 L0 0 Z" copath="M0 0 L396.85 0 L396.85 12.7559 L0 12.7559 L0 0 Z" ImageRes="0" gXpos="128.347086614173" gYpos="290.709921259843" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Open Sans Regular" FONTSIZE="10" Unicode="25"/>
+                <ITEXT FONT="Open Sans Regular" FONTSIZE="10" CH=" Bachillerato con Énfasis en Mantenimiento Correctivo y Preventivo de Ordenadores"/>
+                <trail LINESPMode="1" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="0"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
