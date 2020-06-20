@@ -104,20 +104,16 @@
                 <trail ALIGN="1" LINESPMode="1"/>
             </StoryText>
         </PAGEOBJECT>
-        <PAGEOBJECT XPOS="128.347086614173" YPOS="246.772913385827" OwnPage="0" ItemID="484511462" PTYPE="4" WIDTH="510.236220472441" HEIGHT="170.07874015748" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 170.079 L0 170.079 L0 0 Z" copath="M0 0 L510.236 0 L510.236 170.079 L0 170.079 L0 0 Z" ImageRes="0" gXpos="128.347086614173" gYpos="246.772913385827" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+        <PAGEOBJECT XPOS="128.347086614173" YPOS="275.11937007874" OwnPage="0" ItemID="484511462" PTYPE="4" WIDTH="510.236220472441" HEIGHT="170.07874015748" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L510.236 0 L510.236 170.079 L0 170.079 L0 0 Z" copath="M0 0 L510.236 0 L510.236 170.079 L0 170.079 L0 0 Z" ImageRes="0" gXpos="128.347086614173" gYpos="275.11937007874" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT FONT="Open Sans Regular" CH=" "/>
-                <para LINESPMode="1" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="1" BulletStr="•" Numeration="0"/>
-                <tab FONT="Open Sans Regular"/>
                 <ITEXT FONT="Open Sans Regular" CH="- Tesis: Análisis de beneficios y riesgos de usar la cobertura de código"/>
                 <para ALIGN="0" DIRECTION="0" LINESPMode="1" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0"/>
                 <tab FONT="Open Sans Regular"/>
                 <ITEXT FONT="Open Sans Regular" CH="- Promedio Universitario actual: 4.2"/>
                 <para LINESPMode="1"/>
-                <ITEXT FONT="Open Sans Bold" FONTSIZE="16.5" BASEO="0" CH="I.T.I Manuel Elkin Patarroyo (Convenio SENA)"/>
                 <para LINESPMode="1" OpticalMargins="0"/>
-                <ITEXT FONT="Open Sans Regular" CH=" Técnico en Sistemas"/>
+                <ITEXT FONT="Open Sans Regular" CH=" "/>
                 <para LINESPMode="1" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="1" BulletStr="•" Numeration="0"/>
                 <tab FONT="Open Sans Regular"/>
                 <ITEXT FONT="Open Sans Regular" CH="- Promedio Técnico en Sistemas: 4.3"/>
@@ -204,6 +200,20 @@
                 <DefaultStyle/>
                 <ITEXT FONT="Open Sans Regular" FONTSIZE="10" CH="Estudiante de Ingeniería en Sistemas"/>
                 <trail LINESPMode="1" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" Bullet="0" BulletStr="•" Numeration="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.347086614173" YPOS="229.765039370079" OwnPage="0" ItemID="501754838" PTYPE="4" WIDTH="255.11811023622" HEIGHT="17.007874015748" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L255.118 0 L255.118 17.0079 L0 17.0079 L0 0 Z" copath="M0 0 L255.118 0 L255.118 17.0079 L0 17.0079 L0 0 Z" ImageRes="0" gXpos="128.347086614173" gYpos="229.765039370079" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Open Sans Bold" FONTSIZE="16.5" BASEO="0" CH="SENA"/>
+                <trail LINESPMode="1" OpticalMargins="0"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.347086614173" YPOS="251.024881889764" OwnPage="0" ItemID="516791286" PTYPE="4" WIDTH="255.11811023622" HEIGHT="11.3385826771654" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L255.118 0 L255.118 11.3386 L0 11.3386 L0 0 Z" copath="M0 0 L255.118 0 L255.118 11.3386 L0 11.3386 L0 0 Z" ImageRes="0" gXpos="128.347086614173" gYpos="251.024881889764" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT FONT="Open Sans Regular" FONTSIZE="10" CH="Técnico en Sistemas"/>
+                <trail LINESPMode="1" ParagraphEffectOffset="0" ParagraphEffectIndent="0" DROP="0" DROPLIN="2" Bullet="0" BulletStr="•" Numeration="0"/>
             </StoryText>
         </PAGEOBJECT>
     </DOCUMENT>
