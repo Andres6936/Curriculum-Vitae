@@ -108,9 +108,9 @@
                 <DefaultStyle/>
                 <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15.8" FCOLOR="Blue-Warn-5" CH="Joan Andrés Buriticá Salazar"/>
                 <para LINESP="15"/>
-                <ITEXT FONT="Public Sans Regular" FCOLOR="White" CH="Systems Engineering student"/>
+                <ITEXT FONT="Public Sans Medium" FCOLOR="White" CH="Systems Engineering student"/>
                 <para/>
-                <ITEXT FONT="Public Sans Regular" FONTSIZE="11" FCOLOR="Blue-Warn-5" CH="Granada, Antioquía, Colombia"/>
+                <ITEXT FONT="Public Sans Medium" FONTSIZE="11" FCOLOR="White" CH="Granada, Antioquía, Colombia"/>
                 <trail/>
             </StoryText>
         </PAGEOBJECT>
