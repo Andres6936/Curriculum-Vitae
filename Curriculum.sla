@@ -62,6 +62,8 @@
             <Subset Name="DejaVu Sans Bold"/>
             <Subset Name="Noto Sans Bold"/>
             <Subset Name="Public Sans Black"/>
+            <Subset Name="Public Sans Italic"/>
+            <Subset Name="Public Sans Medium"/>
             <Subset Name="Public Sans Regular"/>
             <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
             <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
@@ -326,8 +328,8 @@
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="156.693543307087" YPOS="728.662677165354" OwnPage="0" ItemID="34378753" PTYPE="4" WIDTH="453.543307086614" HEIGHT="28.3464566929134" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L453.543 0 L453.543 28.3465 L0 28.3465 L0 0 Z" copath="M0 0 L453.543 0 L453.543 28.3465 L0 28.3465 L0 0 Z" ImageRes="0" gXpos="156.693543307087" gYpos="728.662677165354" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle ALIGN="0" FONT="Public Sans Medium" FCOLOR="Yellow-80v"/>
-                <ITEXT FONT="Public Sans Medium" FONTSIZE="8.4" FCOLOR="Yellow-80v" CH="A maintainable software program is one that has an understandable code, expressed in a natural way and with low coupling, allowing the reuse of fragments [of code], which are multiplatform, understandable and verified exhaustively by means of software tests."/>
+                <DefaultStyle ALIGN="0" FONT="Public Sans Medium" FONTSIZE="9" FCOLOR="Yellow-80v"/>
+                <ITEXT FONT="Public Sans Medium" FONTSIZE="9" FCOLOR="Yellow-80v" CH="A maintainable software program is one that has an understandable code, expressed in a natural way and with low coupling, allowing the reuse of fragments [of code], which are multiplatform, understandable and verified exhaustively by software tests."/>
                 <trail ALIGN="0" LINESP="9.5"/>
             </StoryText>
         </PAGEOBJECT>
