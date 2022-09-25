@@ -61,15 +61,13 @@
         <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
         <Printer firstUse="1" toFile="0" useAltPrintCommand="0" outputSeparations="0" useSpotColors="1" useColor="1" mirrorH="0" mirrorV="0" useICC="0" doGCR="0" doClip="0" setDevParam="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" includePDFMarks="1" PSLevel="3" PrintEngine="4" markLength="20" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="All" printerCommand=""/>
         <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB display profile (ICC v2.2)" ImageP="sRGB display profile (ICC v2.2)" PrintP="ISO Coated v2 300% (basICColor)" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="1" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20.0012598425197" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
-            <Fonts Name="CMU Concrete Roman"/>
-            <Fonts Name="Coda Caption ExtraBold"/>
-            <Fonts Name="Liberation Sans Bold"/>
             <Subset Name="Atkinson Hyperlegible Bold"/>
             <Subset Name="Atkinson Hyperlegible Regular"/>
-            <Subset Name="DejaVu Sans Bold"/>
-            <Subset Name="Noto Sans Bold"/>
             <Subset Name="Public Sans Black"/>
+            <Subset Name="Public Sans Bold"/>
+            <Subset Name="Public Sans ExtraBold"/>
             <Subset Name="Public Sans Italic"/>
+            <Subset Name="Public Sans Light"/>
             <Subset Name="Public Sans Medium"/>
             <Subset Name="Public Sans Regular"/>
             <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
@@ -102,7 +100,7 @@
             </Set>
         </PageSets>
         <Sections>
-            <Section Number="0" Name="0" From="0" To="5" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+            <Section Number="0" Name="0" From="0" To="6" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
         </Sections>
         <MASTERPAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="566.929133858268" PAGEHEIGHT="850.393700787402" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normal" MNAM="" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
         <PAGE PAGEXPOS="100.00062992126" PAGEYPOS="20.0012598425197" PAGEWIDTH="566.929133858268" PAGEHEIGHT="850.393700787402" BORDERLEFT="40" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Normal" Size="Custom" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="261.921 225.999 181.417 " AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="4" AGverticalAutoCount="1" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
@@ -154,8 +152,8 @@
         <MASTEROBJECT XPOS="163.780157480315" YPOS="802.363464566929" OwnPage="0" ItemID="205296816" PTYPE="2" WIDTH="14.1732283464567" HEIGHT="9.45177165354331" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.00885826771653543" LOCALSCY="0.00885826771653543" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Resources/colombia.png" IRENDER="0" EMBEDDED="0" path="M0 0 L14.1732 0 L14.1732 9.45177 L0 9.45177 L0 0 Z" copath="M0 0 L14.1732 0 L14.1732 9.45177 L0 9.45177 L0 0 Z" OnMasterPage="Normal" ImageRes="2" gXpos="24431974.8037882" gYpos="72802268.5379789" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <MASTEROBJECT XPOS="213.386456692914" YPOS="803.780787401575" OwnPage="0" ItemID="205302080" PTYPE="4" WIDTH="340.157480314961" HEIGHT="8.50393700787402" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" LOCK="1" path="M0 0 L340.157 0 L340.157 8.50394 L0 8.50394 L0 0 Z" copath="M0 0 L340.157 0 L340.157 8.50394 L0 8.50394 L0 0 Z" OnMasterPage="Normal" ImageRes="0" gXpos="24432024.4100874" gYpos="72802269.9553017" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle ALIGN="1" FONT="DejaVu Sans Bold" FONTSIZE="6.5" FCOLOR="Blue-Warn-5"/>
-                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="6.5" FCOLOR="Blue-Warn-5" CH="Original design, made by Joan Andrés Buriticá Salazar, Santiago de Cali, Colombia"/>
+                <DefaultStyle ALIGN="1" FONT="Public Sans Light" FONTSIZE="6.5" FCOLOR="Blue-Warn-5"/>
+                <ITEXT FONT="Public Sans Light" FONTSIZE="6.5" FCOLOR="Blue-Warn-5" CH="Original design, made by Joan Andrés Buriticá Salazar, Santiago de Cali, Colombia"/>
                 <trail ALIGN="1"/>
             </StoryText>
         </MASTEROBJECT>
@@ -169,7 +167,7 @@
         <MASTEROBJECT XPOS="142.52031496063" YPOS="38.4264566929134" OwnPage="0" ItemID="205276352" PTYPE="4" WIDTH="283.464566929134" HEIGHT="48.1889763779528" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L283.465 0 L283.465 48.189 L0 48.189 L0 0 Z" copath="M0 0 L283.465 0 L283.465 48.189 L0 48.189 L0 0 Z" OnMasterPage="Normal" ImageRes="0" gXpos="24431953.5439457" gYpos="72798833.4123096" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle/>
-                <ITEXT FONT="DejaVu Sans Bold" FONTSIZE="15.8" FCOLOR="Blue-Warn-5" CH="Joan Andrés Buriticá Salazar"/>
+                <ITEXT FONT="Public Sans Light" FONTSIZE="15.8" FCOLOR="Blue-Warn-5" CH="Joan Andrés Buriticá Salazar"/>
                 <para LINESP="15"/>
                 <ITEXT FONT="Public Sans Medium" FCOLOR="White" CH="Systems Engineer"/>
                 <ITEXT FCOLOR="White" CH=" - License 171122-0620819 VLL"/>
@@ -207,8 +205,8 @@
         <PAGEOBJECT XPOS="142.52031496063" YPOS="439.528818897638" OwnPage="0" ItemID="143766768" PTYPE="2" WIDTH="56.6929133858268" HEIGHT="56.6929133858268" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.464696011359236" LOCALSCY="0.464696011359236" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Resources/LudeonLogoOrange.png" IRENDER="0" EMBEDDED="0" path="M0 0 L56.6929 0 L56.6929 56.6929 L0 56.6929 L0 0 Z" copath="M0 0 L56.6929 0 L56.6929 56.6929 L0 56.6929 L0 0 Z" ImageRes="2" gXpos="142.52031496063" gYpos="439.528818897638" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="241.732913385827" YPOS="374.331968503937" OwnPage="0" ItemID="205795248" PTYPE="4" WIDTH="340.157480314961" HEIGHT="17.007874015748" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L340.157 0 L340.157 17.0079 L0 17.0079 L0 0 Z" copath="M0 0 L340.157 0 L340.157 17.0079 L0 17.0079 L0 0 Z" ImageRes="0" gXpos="241.732913385827" gYpos="374.331968503937" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle ALIGN="0" FONT="Noto Sans Bold"/>
-                <ITEXT FONT="Noto Sans Bold" FONTSIZE="16.5" CH="English - Spanish content translator"/>
+                <DefaultStyle ALIGN="0" FONT="Public Sans Bold"/>
+                <ITEXT FONT="Public Sans Bold" FONTSIZE="16.5" CH="English - Spanish content translator"/>
                 <trail ALIGN="0"/>
             </StoryText>
         </PAGEOBJECT>
@@ -222,8 +220,8 @@
         <PAGEOBJECT XPOS="128.347086614173" YPOS="161.733543307087" OwnPage="0" ItemID="143769600" PTYPE="5" WIDTH="255.11811023622" HEIGHT="1" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.41732283464567" PCOLOR="Gray-warm-10" PCOLOR2="Gray-warm-10" PLINEART="1" path="" ImageRes="0" gXpos="128.347086614173" gYpos="161.733543307087" gWidth="0" gHeight="0" LAYER="0"/>
         <PAGEOBJECT XPOS="128.347086614173" YPOS="168.820157480315" OwnPage="0" ItemID="205805024" PTYPE="4" WIDTH="255.11811023622" HEIGHT="17.007874015748" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L255.118 0 L255.118 17.0079 L0 17.0079 L0 0 Z" copath="M0 0 L255.118 0 L255.118 17.0079 L0 17.0079 L0 0 Z" ImageRes="0" gXpos="128.347086614173" gYpos="168.820157480315" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle FONT="Liberation Sans Bold" FONTSIZE="13"/>
-                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="13" CH="Santiago de Cali University "/>
+                <DefaultStyle FONT="Public Sans Bold" FONTSIZE="13"/>
+                <ITEXT FONT="Public Sans Bold" FONTSIZE="13" CH="Santiago de Cali University "/>
                 <trail ALIGN="0" LINESPMode="1" LINESP="15"/>
             </StoryText>
         </PAGEOBJECT>
@@ -236,8 +234,8 @@
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="128.347086614173" YPOS="260.946141732284" OwnPage="0" ItemID="205807856" PTYPE="4" WIDTH="255.11811023622" HEIGHT="17.007874015748" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L255.118 0 L255.118 17.0079 L0 17.0079 L0 0 Z" copath="M0 0 L255.118 0 L255.118 17.0079 L0 17.0079 L0 0 Z" ImageRes="0" gXpos="128.347086614173" gYpos="260.946141732284" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle FONT="Liberation Sans Bold" FONTSIZE="11"/>
-                <ITEXT FONT="Liberation Sans Bold" FONTSIZE="11" BASEO="0" CH="SENA"/>
+                <DefaultStyle FONT="Public Sans Bold" FONTSIZE="11"/>
+                <ITEXT FONT="Public Sans Bold" FONTSIZE="11" BASEO="0" CH="SENA"/>
                 <trail LINESPMode="1" OpticalMargins="0"/>
             </StoryText>
         </PAGEOBJECT>
@@ -282,8 +280,8 @@
         <PAGEOBJECT XPOS="142.52031496063" YPOS="575.591811023621" OwnPage="0" ItemID="143761104" PTYPE="2" WIDTH="56.6929133858268" HEIGHT="56.6929133858268" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.110728346456693" LOCALSCY="0.110728346456693" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Resources/open-source.png" IRENDER="0" EMBEDDED="0" path="M0 0 L56.6929 0 L56.6929 56.6929 L0 56.6929 L0 0 Z" copath="M0 0 L56.6929 0 L56.6929 56.6929 L0 56.6929 L0 0 Z" ImageRes="2" gXpos="142.52031496063" gYpos="575.591811023622" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
         <PAGEOBJECT XPOS="241.732913385827" YPOS="567.087874015748" OwnPage="0" ItemID="143789424" PTYPE="4" WIDTH="340.157480314961" HEIGHT="17.007874015748" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L340.157 0 L340.157 17.0079 L0 17.0079 L0 0 Z" copath="M0 0 L340.157 0 L340.157 17.0079 L0 17.0079 L0 0 Z" ImageRes="0" gXpos="241.732913385827" gYpos="567.087874015747" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
-                <DefaultStyle ALIGN="0" FONT="Noto Sans Bold"/>
-                <ITEXT FONT="Noto Sans Bold" FONTSIZE="16.5" CH="Open Source Projects Collaborator"/>
+                <DefaultStyle ALIGN="0" FONT="Public Sans Bold"/>
+                <ITEXT FONT="Public Sans Bold" FONTSIZE="16.5" CH="Open Source Projects Collaborator"/>
                 <trail ALIGN="0"/>
             </StoryText>
         </PAGEOBJECT>
@@ -766,11 +764,33 @@
         <PAGEOBJECT XPOS="723.622677165355" YPOS="388.505196850394" OwnPage="1" ItemID="211192336" PTYPE="4" WIDTH="453.543307086614" HEIGHT="170.07874015748" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L453.543 0 L453.543 170.079 L0 170.079 L0 0 Z" copath="M0 0 L453.543 0 L453.543 170.079 L0 170.079 L0 0 Z" ImageRes="0" gXpos="156.693543307087" gYpos="3059.69385826772" gWidth="0" gHeight="0" ALIGN="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
             <StoryText>
                 <DefaultStyle ALIGN="0" LINESPMode="1" FONT="Public Sans Regular" FONTSIZE="12"/>
-                <ITEXT FONT="Atkinson Hyperlegible Regular" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH="De­sire to learn new tech­nolo­gies, plat­forms and so­lu­tions, in ad­di­tion to solv­ing prob­lems that af­fect the or­ga­ni­za­tion, the goal as an en­gi­neer is the res­o­lu­tion of prob­lems cov­er­ing ar­eas such as: com­pu­ta­tional per­for­mance, con­sump­tion of com­pu­ta­tional re­sources, soft­ware main­tain­abil­ity and process au­to­ma­tion, highly de­sir­able as­pects for any or­ga­ni­za­tion."/>
-                <para ALIGN="0" LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="Atkinson Hyperlegible Regular" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH="Graduate of Systems Engineering from Universidad Santiago de Cali, with a strong interest in the areas of computing and programming, with a voracious hunger for software development that adds value to the daily operations of the business model, automation of mechanical processes and perfection in the effectiveness, efficiency and effectiveness of the resources employed. I have experience in financial systems from my work at Taylor &amp; Johnson as a Support, Maintenance and Development Engineer, using "/>
+                <ITEXT FONT="Atkinson Hyperlegible Bold" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH="Cobol"/>
+                <ITEXT FONT="Atkinson Hyperlegible Regular" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH=" as programming language and Mainframes (IBM) as infrastructure for the deployment of operations, in Globant Enterprise my functions cover the development in internal infrastructure (business logic embodied in programming aspects) and customer-facing presentation (visualization of the business model), development using technologies provided by infrastructure providers such as "/>
+                <ITEXT FONT="Atkinson Hyperlegible Bold" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH="Amazon with AWS"/>
+                <ITEXT FONT="Atkinson Hyperlegible Regular" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH=" and "/>
+                <ITEXT FONT="Atkinson Hyperlegible Bold" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH="Microsoft with Azure"/>
+                <ITEXT FONT="Atkinson Hyperlegible Regular" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH=", the use of rapid prototyping technologies (such as "/>
+                <ITEXT FONT="Atkinson Hyperlegible Bold" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH="React JS"/>
+                <ITEXT FONT="Atkinson Hyperlegible Regular" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH=", "/>
+                <ITEXT FONT="Atkinson Hyperlegible Bold" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH="NoSQL databases"/>
+                <ITEXT FONT="Atkinson Hyperlegible Regular" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH=" such as "/>
+                <ITEXT FONT="Atkinson Hyperlegible Bold" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH="DynamoDB"/>
+                <ITEXT FONT="Atkinson Hyperlegible Regular" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH=" and "/>
+                <ITEXT FONT="Atkinson Hyperlegible Bold" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH="MongoDB"/>
+                <ITEXT FONT="Atkinson Hyperlegible Regular" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH=") and the use of agile methodologies such as Scrum and XP. "/>
                 <para LINESPMode="0" LINESP="15"/>
-                <ITEXT FONT="Atkinson Hyperlegible Regular" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH="My highly de­vel­oped fo­cus ar­eas have been: per­for­mance, con­sump­tion, soft­ware main­tain­abil­ity and process au­to­ma­tion, ap­ply­ing: de­sign pat­terns, SOLID prin­ci­ples, MVC mod­els, mod­ule-based de­vel­op­ment, mi­croser­vices, au­to­matic de­pen­dency man­age­ment and the use of stan­dards de­vel­oped by in­ter­na­tional stan­dard­iza­tion or­ga­ni­za­tions."/>
-                <trail LINESPMode="0" LINESP="15"/>
+                <ITEXT FONT="Atkinson Hyperlegible Regular" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH=" "/>
+                <para/>
+                <ITEXT FONT="Atkinson Hyperlegible Regular" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH="Desire to learn new technologies, platforms and solutions, in addition to solving problems that affect the organization, the goal as an engineer is the resolution of problems covering areas such as: computational performance, consumption of computational resources, software maintainability and process automation, highly desirable aspects for any organization."/>
+                <para/>
+                <para/>
+                <ITEXT FONT="Atkinson Hyperlegible Regular" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH="My highly developed focus areas have been: "/>
+                <ITEXT FONT="Atkinson Hyperlegible Bold" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH="performance, consumption, software maintainability"/>
+                <ITEXT FONT="Atkinson Hyperlegible Regular" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH=" and "/>
+                <ITEXT FONT="Atkinson Hyperlegible Bold" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH="process automation"/>
+                <ITEXT FONT="Atkinson Hyperlegible Regular" FONTSIZE="12" FCOLOR="Text-Base-Dark" CH=", applying: design patterns, SOLID principles, MVC models, module-based development, microservices, automatic dependency management and the use of standards developed by international standardization organizations."/>
+                <trail/>
             </StoryText>
         </PAGEOBJECT>
         <PAGEOBJECT XPOS="128.347086614173" YPOS="205.670551181102" OwnPage="0" ItemID="211189504" PTYPE="4" WIDTH="425.196850393701" HEIGHT="42.5196850393701" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L425.197 0 L425.197 42.5197 L0 42.5197 L0 0 Z" copath="M0 0 L425.197 0 L425.197 42.5197 L0 42.5197 L0 0 Z" ImageRes="0" gXpos="128.347086614173" gYpos="205.670551181103" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
