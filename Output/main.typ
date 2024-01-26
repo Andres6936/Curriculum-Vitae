@@ -1,57 +1,129 @@
-= Declaración
+= Declaración / About me
+\
+#grid(
+  columns: (auto, auto),
+  gutter: 15pt,
+  [
+Me gradué como Ingeniero en Sistemas de la Universidad Santiago de Cali en el año 2021. Actualmente, curso la Maestría en Sistemas Informáticos.
 
-Mi nombre es Joan Andrés, soy un recién egresado de Ingeniero en Sistemas de la Universidad Santiago de Cali, con un fuerte interés en las áreas de la computación y la programación, con una voraz hambre por el desarrollo de software que agregue valor a las operaciones diarias del modelo de negocio, la automatización de procesos mecánicos y la perfección en la efectividad, eficacia y eficiencia de los recursos empleados. Tengo experiencia en sistemas financieros de mi trabajo en Taylor & Johnson como Ingeniero de Soporte, Mantenimiento y Desarrollo, usando Cobol como lenguaje de programación y Mainframes (IBM) como infraestructura para el despliegue de las operaciones, en Globant Enterprise mis funciones abarcan el desarrollo en infraestructura interna (lógica del negocio plasmada en aspectos de programación) y presentación de cara al cliente (visualización del modelo del negocio), el desarrollo por medio de las tecnologías provistas por proveedores de infraestructura como Amazon con AWS y Microsoft con Azure, el uso de tecnologías de rápido prototipado (como React JS, bases de datos NoSQL como DynamoDB y MongoDB) y uso de metodologías agiles como Scrum y XP.
-Deseo por aprender nuevas tecnologías, plataformas y soluciones, además de solucionar problemas que afectan a la organización, el objetivo como ingeniero es la resolución de problemas que abarcan áreas tales como: rendimiento computacional, consumo de recursos computacionales, mantenibilidad del software y automatización de procesos, aspectos altamente deseables por toda organización.
-Mis áreas de enfoque altamente desarrolladas han sido: rendimiento, consumo, mantenibilidad del software y automatización de procesos, aplicando: patrones de diseño, principios SOLID, modelos MVC, desarrollo basado en módulos, microservicios, gestión de dependencias de forma automática y el uso de estándares desarrollados por organismos de estandarización internacionales.
+En mi experiencia profesional, he trabajado en el desarrollo de sistemas financieros, tanto en el sector público como en el privado. En mi anterior puesto en Taylor & Johnson, me desempeñé como Ingeniero de Soporte, Mantenimiento y Desarrollo, donde trabajé con tecnologías tradicionales como Cobol y Mainframes AS/400 (IBM).
 
-= Statement
+Desde 2022, me desempeño como Desarrollador de software en Artemisa, donde he desarrollado aplicaciones móviles, web y back-end utilizando tecnologías actuales como AWS, Azure, React y bases de datos NoSQL. En esta empresa, también he trabajado con metodologías ágiles como Scrum y XP.
 
-My name is Joan Andrés, I am a recent graduate of Systems Engineering from Universidad Santiago de Cali, with a strong interest in the areas of computing and programming, with a voracious hunger for software development that adds value to the daily operations of the business model, automation of mechanical processes and perfection in the effectiveness, efficiency and effectiveness of the resources employed. I have experience in financial systems from my work at Taylor & Johnson as a Support, Maintenance and Development Engineer, using Cobol as programming language and Mainframes (IBM) as infrastructure for the deployment of operations, in Globant Enterprise my functions cover the development in internal infrastructure (business logic embodied in programming aspects) and customer-facing presentation (visualization of the business model), development using technologies provided by infrastructure providers such as Amazon with AWS and Microsoft with Azure, the use of rapid prototyping technologies (such as React JS, NoSQL databases such as DynamoDB and MongoDB) and the use of agile methodologies such as Scrum and XP.
-Desire to learn new technologies, platforms and solutions, in addition to solving problems that affect the organization, the goal as an engineer is the resolution of problems covering areas such as: computational performance, consumption of computational resources, software maintainability and process automation, highly desirable aspects for any organization.
-My highly developed focus areas have been: performance, consumption, software maintainability and process automation, applying: design patterns, SOLID principles, MVC models, module-based development, microservices, automatic dependency management and the use of standards developed by international standardization organizations.
+Soy un profesional con un fuerte compromiso por la excelencia, la innovación y la mejora continua. Cuento con habilidades de liderazgo, trabajo en equipo y resolución de problemas. Estoy siempre dispuesto a asumir nuevos desafíos y aprender nuevas cosas.
+  ],
+  [
+I graduated as a Software Engineer from the University of Santiago de Cali in 2021. I am currently pursuing a Master's degree in Computer Systems.
 
-= Estudios
+In my professional experience, I have worked in the development of financial systems, both in the public and private sectors. In my previous position at Taylor & Johnson, I worked as a Support, Maintenance, and Development Engineer, where I worked with traditional technologies such as Cobol and Mainframes AS/400 (IBM).
+
+Since 2022, I have been working as a Software Developer at Artemisa, where I have developed mobile, web, and back-end applications using current technologies such as AWS, Azure, React, and NoSQL databases. I have also worked with agile methodologies such as Scrum and XP at this company.
+
+I am a professional with a strong commitment to excellence, innovation, and continuous improvement. I have leadership, teamwork, and problem-solving skills. I am always willing to take on new challenges and learn new things.
+  ]
+)
+
+= Estudios / Studies
+\
+#grid(
+  columns: (auto, auto),
+  gutter: 15pt,
+  [
 == Universidad Santiago de Cali
 
-Soy egresado (2 de noviembre de 2021) de la Universidad Santiago de Cali, he participado en los eventos de robótica y programación auspiciados por la universidad, mi participación en estos eventos ha sido la programación a bajo nivel de los componentes robóticos y retos de programación. Mi trabajo ha servido como base para el desarrollo de nuevos proyectos (proyectos de aprendizaje de máquina como la solución de ecuaciones diferenciales, la simplificación de ecuaciones integrales y derivadas, visión por computador como la identificación biométrica de un individuo para el ingreso a una zona privada y el almacenamiento de la información biométrica en una base de datos). He realizado la tesis con la mayor nota posible 5,0/5,0 por parte de 3 jurados, mi tesista y la decana de la universidad, la tesis ha sido registrada ante la biblioteca de la universidad como: “Análisis de beneficios y riesgos de usar la cobertura de código”.
+=== (Cursando) Maestría en Sistemas
+\
+
+Actualmente, soy estudiante de la Maestría en Sistemas Informáticos de la Universidad Santiago de Cali. La fecha planeada de graduación es el 20 de julio de 2026.
+
+Mi línea de investigación se centra en el desarrollo de sistemas automatizados para pequeñas y medianas empresas (PyME). Mi objetivo es aplicar mis conocimientos y habilidades para desarrollar sistemas que automaticen procesos manuales y se integren a los procesos existentes dentro de la empresa.
+
+=== (Profesional) Ingeniería en Sistemas
+\
+
+Egresé de la Universidad Santiago de Cali en noviembre de 2021. Durante mi formación, participé en eventos de robótica y programación auspiciados por la universidad. En estos eventos, me desempeñé en la programación a bajo nivel de los componentes robóticos y en retos de programación. Mi trabajo sirvió como base para el desarrollo de nuevos proyectos, como proyectos de aprendizaje de máquina para la solución de ecuaciones diferenciales y visión por computador para la identificación biométrica de personal para el ingreso a zonas privadas.
+
+=== Tesis de grado
+
+Mi tesis de grado, titulada "Análisis de beneficios y riesgos de usar la cobertura de código", obtuvo la mayor nota posible (5,0/5,0) por parte de tres jurados, mi director de tesis y la decana de la universidad. La tesis fue registrada ante la biblioteca de la universidad.
 
 == SENA
 
-Estudie en el SENA en paralelo a mis estudios como Bachiller para obtener mi título de Técnico en Sistemas junto con mi Bachillerato, el titulo resultante ha sido: Técnico en Sistemas con un fuerte énfasis en el mantenimiento preventivo y correctivo de ordenadores, además de desarrollar mis habilidades de programación y matemáticas con cursos de verano.
+Realicé estudios en el SENA en paralelo a mis estudios de bachillerato. Al finalizar, obtuve el título de Técnico en Sistemas con un fuerte énfasis en el mantenimiento preventivo y correctivo de ordenadores. Además, desarrollé mis habilidades de programación y matemáticas a través de cursos de verano.
+  ],
+  [
+== University of Santiago de Cali
 
-= Studies
+=== (Currently studying) Master's in Systems
+\
 
-I am a graduate (November 2, 2021) of the Universidad Santiago de Cali, I have participated in robotics and programming events sponsored by the university, my participation in these events has been low-level programming of robotic components and programming challenges. My work has served as a basis for the development of new projects (machine learning projects such as the solution of differential equations, simplification of integral and derivative equations, computer vision such as biometric identification of an individual for entry to a private area and storage of biometric information in a database). I have done the thesis with the highest possible grade 5.0/5.0 by 3 jurors, my thesis writer and the dean of the university, the thesis has been registered with the university library as: "Analysis of benefits and risks of using code coverage".
+I am currently a student in the Master of Computer Systems program at the University of Santiago de Cali. My expected graduation date is July 20, 2026.
 
-I studied at SENA to obtain my degree as a systems Technician with a strong emphasis on preventive and corrective maintenance of computers, in addition to developing my programming and math skills.
+My research focus is on the development of automated systems for small and medium-sized enterprises (SMEs). My goal is to apply my knowledge and skills to develop systems that automate manual processes and integrate with existing processes within the company.
 
-= Experiencia
+=== (Professional) Systems Engineering
+\
 
-== Desarrollador Independiente
-- Desarrollo de plataforma web enfocada en equipos móviles para gestión de registros contables, nómina y pago de facturas, usando tecnologías HTML5, CSS3 y JavaScript para el lado del cliente y del lado del servidor: NodeJS y MongoDB (Un rol conocido como FullStack). Uso de patrones de diseño de Software, SOLID y MVC.
+I graduated from the University of Santiago de Cali in November 2021. During my studies, I participated in robotics and programming events sponsored by the university. In these events, I worked on low-level programming of robotic components and programming challenges. My work served as the basis for the development of new projects, such as machine learning projects for the solution of differential equations and computer vision for the biometric identification of personnel for entry into private areas.
 
-== Freelance Developer
-- Development of web platform focused on mobile devices for accounting records management, payroll and invoice payment, using HTML5, CSS3 and JavaScript technologies for client side and server side: NodeJS and MongoDB. Use of Software design patterns, SOLID and MVC.
+=== Thesis
 
-== Servicio al cliente
-- 6 años de experiencia trabajando de la mano del cliente, personas y equipo, resolviendo sus dudas y apoyándolos en los procesos que requieran (compra u obtención de productos y servicios), guiándolos y llevándolos de la mano, todo gracias al excelente trato que brindo para con todos y al excelso conocimiento recolectado de los procesos internos de la organización.
+My bachelor's thesis, titled "Analysis of the benefits and risks of using code coverage", received the highest possible grade (5.0/5.0) from three judges, my thesis advisor, and the dean of the university. The thesis was registered with the university library.
 
-== Customer Service
-- 6 years of experience working hand in hand with the client, people and team, solving their doubts and supporting them in the processes they require (purchase or/and obtaining of products and services), guiding them and taking them by the hand, all thanks to the excellent treatment I give to everyone and the excellent knowledge collected from the internal processes of the organization.
+== SENA
 
-== Taylor & Johnson
-- 6 meses como programador en Cobol con experiencia en sistemas financieros, encargado del mantenimiento y desarrollo de software bancario, encargado de la constitución de formatos y contratos financieros, innovación y desarrollo de procesos internos para aumentar la eficiencia y eficacia del equipo, automatización de pruebas, implementación de controlador de versiones e integración continua del software desarrollado. Depuración y migración de información para el tratamiento en base de datos SQL DB2 IBM.
+I took courses at SENA in parallel with my high school studies. Upon completion, I obtained the title of Systems Technician with a strong emphasis on preventive and corrective computer maintenance. I also developed my programming and math skills through summer courses.
+  ]
+)
 
-== Taylor & Johnson
-- 6 months as a Cobol programmer with experience in financial systems, in charge of the maintenance and development of banking software, in charge of the constitution of formats and financial contracts, innovation and development of internal processes to increase the efficiency and effectiveness of the team, test automation, implementation of version controller and continuous integration of the developed software. Debugging and migration of information for processing in SQL DB2 IBM database.
 
-== Globant Enterprise
-- Programador FullStack enfocado en el desarrollo de aplicaciones empresariales a medida que abarcan soluciones precisas y estables a lo largo del tiempo, el desarrollo de las aplicaciones abarca el despliegue en plataforma móviles y Web (Frontend), el despliegue de las aplicaciones Web se realiza en forma de SPA (Single Page Application), el desarrollo de la estructura interna (Backend) de la aplicación se realiza de la mano con los servicios de AWS y Azure, la estructura de la información abarca el uso de bases de datos NoSQL como DynamoDB y MongoDB, la estructuración de la lógica que acompaña los demás servicos es dirigida por una arquitectura basada en Microservicios que auspician la atomicidad de la lógica en funciones Lambdas y Streams de AWS, estos últimos sirven como inspector para cualquier cambio que se realice en el modelo de la aplicación ofreciendo una total transparencia sobre los eventos que afecten el modelo de negocio sobre el cual trabaja la aplicación.
-== Globant Enterprise
-- FullStack programmer focused on the development of custom enterprise applications that encompass accurate and stable solutions over time, the development of applications covers the deployment on mobile and Web platform (Frontend), the deployment of Web applications is done in the form of SPA (Single Page Application), the development of the internal structure (Backend) of the application is done hand in hand with AWS and Azure services, The structure of the information includes the use of NoSQL databases such as DynamoDB and MongoDB, the structuring of the logic that accompanies the other services is driven by an architecture based on Microservices that sponsor the atomicity of the logic in Lambdas and AWS Streams functions, the latter serve as an inspector for any changes made to the application model offering total transparency on the events that affect the business model on which the application works.  
+= Experiencia / Experience
+\
+
+#grid(
+  columns: (auto, auto),
+  gutter: 15pt,
+  [
+== Artemisa
+
+- Se desarrolló aplicación para el registro y gestión de juegos comunales e intercolegiados para el ministerio de deporte. La aplicación se desarrolló con React para la interfaz de usuario, AWS (Functions, API Gateway y Streams) para los servicios y DynamoDB para la base de datos.
+
+- Se implementó una pasarela PSE para el pago de suscripciones de una aplicación [PHP/Javascript] existente en estado legacy. El desarrollo se realizó desde cero utilizando Typescript/NestJs para el manejo de la lógica y la comunicación con los servicios de PSE. La implementación se realizó de acuerdo al manual recomendado de PSE y el servicio cumplió satisfactoriamente la certificación de PSE. Actualmente, el servicio se utiliza en producción.
+
+- Se desarrolló un módulo de facturación, impresión y emisión de facturas electrónicas para Enel Colombia. Para la impresión de facturas se utilizó React-PDF/JS/TS, que permite generar facturas con información del cliente, pago, cuotas, código de barras y descargo legal. El módulo de facturación también almacena información de tarjetas Codensa y compra de cartera Colpatria. La implementación de servicios se realizó en Java/Kotlin, interfaz de usuario en React y base de datos NoSQL (MongoDB).
+
+- Se desarrolló una aplicación móvil y web (Lotto/Sports) dirigida a usuarios de Puerto Rico y Estados Unidos. La aplicación permite a los usuarios comprar y apostar en loterías y resultados deportivos. El desarrollo se realizó con React Native/Expo y la distribución se realizó a través de la App Store (iOS) y la Play Store (Android).
+
+- Se desarrolló una aplicación móvil (Powwi/Banco W) dirigida a usuarios con servicios bancarios. La aplicación permite a los usuarios realizar retiros en cajeros automáticos y corresponsales bancarios, pagar servicios públicos, comprar pings para servicios de streaming y enviar dinero a otros usuarios de la aplicación. El desarrollo se realizó con React Native/Expo y la distribución se realizó a través de la App Store (iOS) y la Play Store (Android).
+
+- Se desarrollaron servicios para el módulo de inspección y control de transporte público, los cuales se utilizan para enviar reportes de cumplimiento/no cumplimiento, subsanación y notificación de visita, correspondencia 472 para notificación empresarial de documentación y actos administrativos, agendamiento de citas y planificación de visitas. La implementación de los servicios se realizó con C\# usando Azure, y la interfaz de usuario se desarrolló en Angular.
+],
+  [
+    == Artemisa
+    
+- We developed an application for the registration and management of community and intercollegiate games for the ministry of sports. The application was developed with React for the user interface, AWS (Functions, API Gateway and Streams) for the services and DynamoDB for the database.
+
+- A PSE gateway was implemented for the payment of subscriptions of an existing [PHP/Javascript] application in legacy state. The development was done from scratch using Typescript/NestJs to handle the logic and communication with the PSE services. The implementation was done according to the recommended PSE manual and the service successfully met PSE certification. The service is currently in production use.
+
+- A module for invoicing, printing and issuance of electronic invoices was developed for Enel Colombia. React-PDF/JS/TS was used to print invoices, which allows the generation of invoices with customer information, payment, installments, bar code and legal disclaimer. The invoicing module also stores information from Codensa cards and Colpatria portfolio purchases. The implementation of services was done in Java/Kotlin, user interface in React and NoSQL database (MongoDB).
+
+- A mobile and web application (Lotto/Sports) was developed for users in Puerto Rico and the United States. The application allows users to buy and bet on lotteries and sports results. The development was done with React Native/Expo and the distribution was done through the App Store (iOS) and Play Store (Android).
+
+- A mobile application (Powwi/Banco W) was developed targeting users with banking services. The app allows users to make withdrawals at ATMs and banking correspondents, pay for utilities, buy pings for streaming services and send money to other app users. Development was done with React Native/Expo and distribution was done through the App Store (iOS) and Play Store (Android).
+
+- Services were developed for the public transport inspection and control module, which are used to send compliance/non-compliance reports, visit correction and notification, 472 correspondence for business notification of documentation and administrative acts, appointment scheduling and visit planning. The implementation of the services was done with C\# using Azure, and the user interface was developed in Angular.
+  ]
+)
 
 = Habilidades
+\
+
+#grid(
+  columns: (auto, auto),
+  gutter: 15pt,
+  [
 == Habilidades altamente especializadas
+
 - Búsqueda y reparación de fugas de memoria (Memory Leak) con Valgrind.
 - Diseño, mejora y escritura de documentación, incluso si es inexistente.
 - Desarrollo e implementación de sistemas de Loggin siguiendo el estándar RFC5424.
@@ -68,8 +140,10 @@ I studied at SENA to obtain my degree as a systems Technician with a strong emph
 - Desarrollo y ejecución de proyectos usando como base de datos DB2 IBM (SQL).
 - Apoyo en el análisis técnico y el diseño de soluciones basadas en Software.
 - Evaluación y prueba de nuevas soluciones y plataformas informáticas en el ámbito de integración de aplicaciones, microservicios, alta disponibilidad y rendimiento.
-
+  ],
+  [
 == Highly specialized skills
+
 - Finding and repairing memory leaks (Memory Leak) with Valgrind.
 - Design, improvement and writing of documentation, even if non-existent.
 - Development and implementation of Loggin systems following the RFC5424 standard.
@@ -84,8 +158,15 @@ I studied at SENA to obtain my degree as a systems Technician with a strong emph
 - Development and execution of projects using MongoDB (NoSQL) as database.
 - Support in the technical analysis and design of Software based solutions.
 - Evaluation and testing of new solutions and computing platforms in the field of application integration, microservices, high availability and performance.
+  ]
+)
 
+#grid(
+  columns: (auto, auto),
+  gutter: 15pt,
+  [
 = Proyectos
+
 - Desarrollo e implementación de decodificador y encodificador de imágenes PNG aparir de las especificaciones (Estándar PNG v1.2).
 - Desarrollo e implementación de decodificador y encodificador basado en el algoritmo Huffman Coding para binarización y cifrado de datos.
 - Desarrollo e implementación de programa informático para conversión de archivos PO a XML.
@@ -95,8 +176,8 @@ I studied at SENA to obtain my degree as a systems Technician with a strong emph
 - Desarrollo e implementación de aplicación Web enfocada en móviles.
 - Desarrollo e implementación de motor gráfico bidimensional, usando OpenGL y SDL.
 - Desarrollo e implementación de marco de trabajo para el diseño, implementación y desarrollo de programas con requerimientos de renderizado y uso de algoritmos (Cifrado, Compresión, Pathfinding, etc …).
-
-
+  ],
+  [
 = Projects
 
 - Development and implementation of PNG image decoder and encoder according to the specifications (PNG Standard v1.2).
@@ -108,7 +189,13 @@ I studied at SENA to obtain my degree as a systems Technician with a strong emph
 - Development and implementation of Web application focused on cell phones.
 - Development and implementation of two-dimensional graphics engine, using OpenGL and SDL.
 - Development and implementation of framework for the design, implementation and development of programs with rendering requirements and use of algorithms (Encryption, Compression, Pathfinding, etc ...).
+  ]
+)
 
+#grid(
+  columns: (auto, auto),
+  gutter: 15pt,
+  [
 = Experiencia Tecnologica
 
 - Experiencia en el desarrollo de componentes y microservicios.
@@ -130,7 +217,8 @@ I studied at SENA to obtain my degree as a systems Technician with a strong emph
 - Experiencia en mantenimiento de los sistemas de información.
 - Experiencia en la documentación técnica del proyecto.
 - Experiencia en análisis funcional y elaboración de documentación funcional sobre el proyecto.
-
+  ],
+  [
 = Technological experience
 
 - Experience in the development of components and microservices.
@@ -151,7 +239,13 @@ I studied at SENA to obtain my degree as a systems Technician with a strong emph
 - Experience in maintenance of information systems.
 - Experience in the technical documentation of the project.
 - Experience in functional analysis and elaboration of functional documentation on the project.
+  ]
+)
 
+#grid(
+  columns: (auto, auto),
+  gutter: 15pt,
+  [
 = Habilidades con Servicio al Cliente
 
 - 6 años de experiencia en servicio y atención a clientes y personas (tanto física como virtual).
@@ -160,13 +254,18 @@ I studied at SENA to obtain my degree as a systems Technician with a strong emph
 - Excelente presentación personal.
 - Excelente vocabulario y habilidades de persuasión.
 - Excelente redacción, tanto en español como en inglés.
-- Customer service skills
+  ],
+  [
+= Customer service skills
+
 - 6 years of experience in customer service and customer care (both physical and virtual).
 - 3 years in team coordination and team multi-tasking.
 - Excellent charisma, attitude, interaction and interaction with customers, teams and individuals.
 - Excellent personal presentation.
 - Excellent vocabulary and persuasion skills.
 - Excellent writing skills, both in Spanish and English.
+  ]
+)
 
 = Información Personal
 
