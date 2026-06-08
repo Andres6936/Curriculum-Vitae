@@ -1,8 +1,6 @@
 <p align="center">
-    <img src="./Pages/Curriculum-P1.svg" alt="Curriculum Page 1" />
-    <img src="./Pages/Curriculum-P2.svg" alt="Curriculum Page 2" />
-    <img src="./Pages/Curriculum-P3.svg" alt="Curriculum Page 3" />
-    <img src="./Pages/Curriculum-P4.svg" alt="Curriculum Page 4" />
-    <img src="./Pages/Curriculum-P5.svg" alt="Curriculum Page 5" />
-    <img src="./Pages/Curriculum-P6.svg" alt="Curriculum Page 6" />
+    <img src="./Pages/Curriculum-P1.webp" alt="Curriculum Page 1" />
+    <img src="./Pages/Curriculum-P2.webp" alt="Curriculum Page 2" />
+    <img src="./Pages/Curriculum-P3.webp" alt="Curriculum Page 3" />
+    <img src="./Pages/Curriculum-P4.webp" alt="Curriculum Page 4" />
 </p>
